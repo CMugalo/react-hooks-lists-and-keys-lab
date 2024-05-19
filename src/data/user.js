@@ -12,7 +12,7 @@ const user = {
       id: 1,
       name: "Reciplease",
       about: "A recipe tracking app",
-      technologies: ["Rails", "Bootstrap CSS"],
+      technologies: ["Rails", "Bootstrap CSS"], 
     },
     {
       id: 2,
